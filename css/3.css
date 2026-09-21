@@ -1,0 +1,48 @@
+
+.depicter-revert .depicter-3-element-14{
+	background-color:#D0A558;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-3-element-14 .depicter-symbol-container{
+	fill:#FFF;
+}
+.depicter-revert .depicter-3-element-15{
+	background-color:#D0A558;
+	border-radius:5px 5px 5px 5px;
+}
+.depicter-3-element-15 .depicter-symbol-container{
+	fill:#FFF;
+}
+.depicter-revert .depicter-3-section-76 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-3-section-33 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-3-section-7 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-3-section-65 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-3-section-9 .depicter-section-background{
+	background-color:#FFF;
+}
+
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-3-element-14 .depicter-symbol-container{
+	transform:scale( 0.67 );
+}
+.depicter-3-element-14:hover .depicter-symbol-container{
+	transform:scale( 0.67 );
+}
+.depicter-3-element-15 .depicter-symbol-container{
+	transform:scale( 0.67 );
+}
+.depicter-3-element-15:hover .depicter-symbol-container{
+	transform:scale( 0.67 );
+}
+
+}
